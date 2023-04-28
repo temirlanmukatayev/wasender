@@ -1,5 +1,11 @@
 *.txt
+*.xls*
+*.doc*
 *.zip
+*.pdf
+
+result/
+test/
 
 venv
 
