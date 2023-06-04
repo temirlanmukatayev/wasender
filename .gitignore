@@ -3,6 +3,9 @@
 *.doc*
 *.zip
 *.pdf
+*.png
+*.jpg
+*.jpeg
 
 result/
 test/
